@@ -1,4 +1,4 @@
-from functions.declaracoes import declaracao_foro, declaracao_laudemio, declaracao_dominio_direto
+from .declaracoes import declaracao_foro, declaracao_laudemio, declaracao_dominio_direto
 
 def menu():
     while True:
